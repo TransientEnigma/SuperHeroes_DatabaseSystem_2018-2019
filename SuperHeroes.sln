@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SuperHeroes", "SuperHeroes\", "{369EE677-07DB-43F0-AABF-836151795D8F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_2679"
+		Debug.AspNetCompiler.PhysicalPath = "SuperHeroes\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2679\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_2679"
+		Release.AspNetCompiler.PhysicalPath = "SuperHeroes\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2679\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2679"
+		SlnRelativePath = "SuperHeroes\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{369EE677-07DB-43F0-AABF-836151795D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369EE677-07DB-43F0-AABF-836151795D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4503B5B-34B7-4CA6-9A22-82F37B74C35B}
+	EndGlobalSection
+EndGlobal
